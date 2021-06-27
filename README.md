@@ -7,7 +7,7 @@ sms-man.com module for buy virtual numbers
 
 ### Linux:
 ```
-python3 setup.py install
+sudo python3 setup.py install
 ```
 
 ### Windows:
