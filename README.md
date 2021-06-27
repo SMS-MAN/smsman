@@ -3,7 +3,20 @@ sms-man.com module for buy virtual numbers
 
 
 
-Example:
+# Installing
+
+### Linux:
+```
+python3 setup.py install
+```
+
+### Windows:
+```
+py setup.py install
+```
+
+
+# Example:
 ```
 >>> import smsman                                     #connecting module
 >>> api = smsman.Smsman("your_api_key")               #connect to sms-man.com api
